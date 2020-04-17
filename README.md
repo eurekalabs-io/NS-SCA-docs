@@ -43,41 +43,39 @@ API overview chart
 
 [here]: https://drive.google.com/file/d/1j28jO-PKVjDr_2uWdAYujfLr63noLpYI/view?usp=sharing
 
+SuiteCommerce Store Front Docs:
 
-Developer Tools:
+- https://developers.suitecommerce.com/store-front
 
-- https://developers.suitecommerce.com/preface1519250632
+Developers Docs:
 
-Developer Environment:
+Site Development: 
 
-- https://developers.suitecommerce.com/section4183925632
+- https://developers.suitecommerce.com/site-development
 
-Theme Developer Tools:
+### APIs: 
 
-- https://developers.suitecommerce.com/section1518574592
+- https://developers.suitecommerce.com/apis
 
-Extension Developer Tools:
+**Extensibility API**
 
-- https://developers.suitecommerce.com/section1518718842
+Frontend Extensibility API: https://system.netsuite.com/help/helpcenter/en_US/APIs/SuiteCommerce/Extensibility/Frontend/index.html
 
-Dev Tools Reference:
+Backend Extensibility API: https://system.netsuite.com/help/helpcenter/en_US/APIs/SuiteCommerce/Extensibility/Backend/index.html
 
-- https://developers.suitecommerce.com/section1510956401
+Extensibility API Tutorials: https://developers.suitecommerce.com/chapter1520968894
 
-### EXTENSIBILITY API
+Extensibility Component Classes: https://developers.suitecommerce.com/section1518477079
 
-Extensibility Component Classes:
+**Item Search API**
 
-- https://developers.suitecommerce.com/section1518477079
+- https://developers.suitecommerce.com/chapterN2665337
 
-Frontend Extensibility API:
+**Commerce API**
 
-- https://system.netsuite.com/help/helpcenter/en_US/APIs/SuiteCommerce/Extensibility/Frontend/index.html
+- https://developers.suitecommerce.com/sectionN2496227
 
-Backend Extensibility API:
+**SuiteScript 2.0 API**
 
-- https://system.netsuite.com/help/helpcenter/en_US/APIs/SuiteCommerce/Extensibility/Backend/index.html
+- https://tstdrv2260525.app.netsuite.com/app/help/helpcenter.nl?fid=chapter_4387172221.html&whence=
 
-Extensibility API Tutorials:
-
-- https://developers.suitecommerce.com/chapter1520968894
