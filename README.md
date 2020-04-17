@@ -34,6 +34,7 @@ Items:
 **Biz Docs, Presentations, Demos**
 
 - SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
+- NetSuite B2B Ecommerce Product Demo: https://www.youtube.com/watch?v=ptw2QFV53f0
 
 
 **SuiteCommerce Store Front Docs**
