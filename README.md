@@ -37,12 +37,17 @@ Items:
 
 **SuiteCommerce Store Front Docs**
 
-- https://developers.suitecommerce.com/store-front
+Everything about setting up, configure and manage a Web Store
 
-**API overview chart**
-![SuiteCommerce Advanced APIs Overview](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/images/APIs-overview.png)
+https://developers.suitecommerce.com/store-front
+
+**Site Management Tools Docs**
+
+Website management tasks like managing content, landing pages, commerce categories and subcategories, assign items to categories.
 
 ### Developers Docs:
+
+Main documentation site: https://developers.suitecommerce.com/documentation
 
 Site Development: 
 
@@ -51,6 +56,10 @@ Site Development:
 ### APIs
 
 - https://developers.suitecommerce.com/apis
+
+**API overview chart**
+
+![SuiteCommerce Advanced APIs Overview](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/images/APIs-overview.png)
 
 **Extensibility API**
 
