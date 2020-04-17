@@ -2,7 +2,7 @@
 
 > This is a reference that aims to facilitate the research and learning of NS and SCA. It tries to keep a logical order but not neccesarly needs to be followed. 
 
-### NetSuite Essentials
+## NetSuite Essentials
 Intro:
 
 - https://www.youtube.com/watch?v=_nG96qTVf5M&list=PL_KcE3J72WBxHzj_kcmNqzY2TnQksq-ep
@@ -28,55 +28,71 @@ Items:
 - https://www.youtube.com/watch?v=r2dP7lCk4Sw&list=PL_KcE3J72WBxHzj_kcmNqzY2TnQksq-ep&index=9
 
 
-### SuiteCommerce Advanced
+## SuiteCommerce Advanced
 
 
 **Biz Docs, Presentations, Demos**
 
-SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
+- SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
+- NetSuite B2B Ecommerce Product Demo: https://www.youtube.com/watch?v=ptw2QFV53f0
 
 
-**Technical Docs**
+**SuiteCommerce Store Front Docs**
 
-API overview chart [here]
+Everything about setting up, configure and manage a Web Store:
 
-[here]: https://drive.google.com/file/d/1j28jO-PKVjDr_2uWdAYujfLr63noLpYI/view?usp=sharing
+- https://developers.suitecommerce.com/store-front
 
 
-Developer Tools:
+**Site Management Tools Docs**
 
-- https://developers.suitecommerce.com/preface1519250632
+Website management tasks like managing content, landing pages, commerce categories and subcategories, assign items to categories:
 
-Developer Environment:
+- https://developers.suitecommerce.com/book4080362047
 
-- https://developers.suitecommerce.com/section4183925632
 
-Theme Developer Tools:
 
-- https://developers.suitecommerce.com/section1518574592
+### Developers Docs:
 
-Extension Developer Tools:
+Main documentation site: https://developers.suitecommerce.com/documentation
 
-- https://developers.suitecommerce.com/section1518718842
+**Site Development (Tools, Configurations, Customization, Architecture)** 
 
-Dev Tools Reference:
+- https://developers.suitecommerce.com/site-development
 
-- https://developers.suitecommerce.com/section1510956401
+**System Management (Domanins, Caching, Microsites, Security, SSP Apps)**
 
-### EXTENSIBILITY API
+- https://developers.suitecommerce.com/system-management
 
-Extensibility Component Classes:
 
-- https://developers.suitecommerce.com/section1518477079
+### APIs
 
-Frontend Extensibility API:
+- https://developers.suitecommerce.com/apis
 
-- https://system.netsuite.com/help/helpcenter/en_US/APIs/SuiteCommerce/Extensibility/Frontend/index.html
+**API overview chart**
 
-Backend Extensibility API:
+![SuiteCommerce Advanced APIs Overview](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/images/APIs-overview.png)
 
-- https://system.netsuite.com/help/helpcenter/en_US/APIs/SuiteCommerce/Extensibility/Backend/index.html
+**Extensibility API**
 
-Extensibility API Tutorials:
+- Frontend Extensibility API: https://system.netsuite.com/help/helpcenter/en_US/APIs/SuiteCommerce/Extensibility/Frontend/index.html
 
-- https://developers.suitecommerce.com/chapter1520968894
+- Backend Extensibility API: https://system.netsuite.com/help/helpcenter/en_US/APIs/SuiteCommerce/Extensibility/Backend/index.html
+
+- Extensibility API Tutorials: https://developers.suitecommerce.com/chapter1520968894
+
+- Extensibility Component Classes: https://developers.suitecommerce.com/section1518477079
+
+**Item Search API**
+
+- https://developers.suitecommerce.com/chapterN2665337
+
+**Commerce API**
+
+- https://developers.suitecommerce.com/sectionN2496227
+
+**SuiteScript 2.0 API**
+
+- https://tstdrv2260525.app.netsuite.com/app/help/helpcenter.nl?fid=chapter_4387172221.html&whence=
+- [SuiteScript 2.0 API Reference](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/docs/NSAPI.pdf)
+
