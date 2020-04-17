@@ -32,7 +32,7 @@ Items:
 
 **Biz Docs, Presentations, Demos**
 
-- https://www.youtube.com/watch?v=feacgyTVUZI
+SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
 
 **Technical Docs**
 
