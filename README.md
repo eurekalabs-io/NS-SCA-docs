@@ -96,3 +96,6 @@ Main documentation site: https://developers.suitecommerce.com/documentation
 - https://tstdrv2260525.app.netsuite.com/app/help/helpcenter.nl?fid=chapter_4387172221.html&whence=
 - [SuiteScript 2.0 API Reference](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/docs/NSAPI.pdf)
 
+## Resources
+
+SCA Video Library: https://developers.suitecommerce.com/video-library
