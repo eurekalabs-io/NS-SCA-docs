@@ -38,7 +38,8 @@ SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyT
 
 **Technical Docs**
 
-API overview chart [here]
+API overview chart
+![SuiteCommerce Advanced APIs Overview](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/images/APIs-overview.png)
 
 [here]: https://drive.google.com/file/d/1j28jO-PKVjDr_2uWdAYujfLr63noLpYI/view?usp=sharing
 
