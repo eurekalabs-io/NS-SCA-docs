@@ -33,7 +33,7 @@ Items:
 
 **Biz Docs, Presentations, Demos**
 
-SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
+- SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
 
 **SuiteCommerce Store Front Docs**
 
