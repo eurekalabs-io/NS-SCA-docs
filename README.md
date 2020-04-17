@@ -35,23 +35,34 @@ Items:
 
 - SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
 
+
 **SuiteCommerce Store Front Docs**
 
-Everything about setting up, configure and manage a Web Store
+Everything about setting up, configure and manage a Web Store:
 
-https://developers.suitecommerce.com/store-front
+- https://developers.suitecommerce.com/store-front
+
 
 **Site Management Tools Docs**
 
-Website management tasks like managing content, landing pages, commerce categories and subcategories, assign items to categories.
+Website management tasks like managing content, landing pages, commerce categories and subcategories, assign items to categories:
+
+- https://developers.suitecommerce.com/book4080362047
+
+
 
 ### Developers Docs:
 
 Main documentation site: https://developers.suitecommerce.com/documentation
 
-Site Development: 
+**Site Development (Tools, Configurations, Customization, Architecture)** 
 
 - https://developers.suitecommerce.com/site-development
+
+**System Management (Domanins, Caching, Microsites, Security, SSP Apps)**
+
+- https://developers.suitecommerce.com/system-management
+
 
 ### APIs
 
@@ -82,4 +93,5 @@ Site Development:
 **SuiteScript 2.0 API**
 
 - https://tstdrv2260525.app.netsuite.com/app/help/helpcenter.nl?fid=chapter_4387172221.html&whence=
+- [SuiteScript 2.0 API Reference](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/docs/NSAPI.pdf)
 
