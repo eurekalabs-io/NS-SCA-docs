@@ -98,4 +98,24 @@ Main documentation site: https://developers.suitecommerce.com/documentation
 
 ## Resources
 
-SCA Video Library: https://developers.suitecommerce.com/video-library
+SCA Themes: 
+
+- https://www.tavanoteam.com/suitecommerce-themes/suitecommerce-advanced-themes/
+- https://www.intente.net/NetSuite-suitecommerce.php
+
+SCA Working Demo WebSites:
+
+- http://posh.production.cdn.netsuitestaging.com/
+- http://manor.production.cdn.netsuitestaging.com/
+- http://threads.production.cdn.netsuitestaging.com/
+- http://horizon.production.cdn.netsuitestaging.com/
+- http://bridge.production.cdn.netsuitestaging.com/
+- http://tasty.production.cdn.netsuitestaging.com/
+- http://forged.production.cdn.netsuitestaging.com/
+
+
+SCA Video Library: 
+
+- https://developers.suitecommerce.com/video-library
+
+
