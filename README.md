@@ -98,6 +98,10 @@ Main documentation site: https://developers.suitecommerce.com/documentation
 
 ## Resources
 
+Companies that implement SCA:
+
+- https://www.netsuite.com/portal/products/ecommerce/customers.shtml
+
 SCA Themes: 
 
 - https://www.tavanoteam.com/suitecommerce-themes/suitecommerce-advanced-themes/
