@@ -30,17 +30,20 @@ Items:
 
 ## SuiteCommerce Advanced
 
-
 **Biz Docs, Presentations, Demos**
 
 - SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
 - NetSuite B2B Ecommerce Product Demo: https://www.youtube.com/watch?v=ptw2QFV53f0
 
-**SuiteCommerce Advanced - Architecture**
-https://www.youtube.com/watch?v=DwNzsVNerbE
+**Architecture**
 
-**SuiteCommerce Advanced - Initial Setup**
-https://www.youtube.com/watch?v=PKwMTbcYz84
+![SuiteCommerceAdvance-Architecture](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/images/SuiteCommerceAdvance-Architecture.png)
+
+- Video: https://www.youtube.com/watch?v=DwNzsVNerbE
+
+**Initial Setup**
+
+- Video: https://www.youtube.com/watch?v=PKwMTbcYz84
 
 **SuiteCommerce Store Front Docs**
 
