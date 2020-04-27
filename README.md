@@ -36,6 +36,11 @@ Items:
 - SuiteCommerce Webinar with Product Demo: https://www.youtube.com/watch?v=feacgyTVUZI
 - NetSuite B2B Ecommerce Product Demo: https://www.youtube.com/watch?v=ptw2QFV53f0
 
+**SuiteCommerce Advanced - Architecture**
+https://www.youtube.com/watch?v=DwNzsVNerbE
+
+**SuiteCommerce Advanced - Initial Setup**
+https://www.youtube.com/watch?v=PKwMTbcYz84
 
 **SuiteCommerce Store Front Docs**
 
