@@ -41,17 +41,17 @@ Items:
 
 **SuiteCommerce Advanced Videos**
 
-Achitecture: https://www.youtube.com/watch?v=DwNzsVNerbE
+- Achitecture: https://www.youtube.com/watch?v=DwNzsVNerbE
 
-Initial Setup: https://www.youtube.com/watch?v=PKwMTbcYz84
+- Initial Setup: https://www.youtube.com/watch?v=PKwMTbcYz84
 
-Customizing the Reference Application: https://www.youtube.com/watch?v=snQvTtXnT-0
+- Customizing the Reference Application: https://www.youtube.com/watch?v=snQvTtXnT-0
 
-Facet and Item Option Configuration: https://www.youtube.com/watch?v=7XYgocGz-YA
+- Facet and Item Option Configuration: https://www.youtube.com/watch?v=7XYgocGz-YA
 
-Exposing Custom Item Fields: https://www.youtube.com/watch?v=Tj-EUPbLvfw
+- Exposing Custom Item Fields: https://www.youtube.com/watch?v=Tj-EUPbLvfw
 
-Exposing Custom Customer Fields: https://www.youtube.com/watch?v=gxSxZBVjKZY
+- Exposing Custom Customer Fields: https://www.youtube.com/watch?v=gxSxZBVjKZY
 
 **SuiteCommerce Store Front Docs**
 
