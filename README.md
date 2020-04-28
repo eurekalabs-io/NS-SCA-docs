@@ -39,15 +39,19 @@ Items:
 
 ![SuiteCommerceAdvance-Architecture](https://github.com/eurekalabs-io/NS-SCA-docs/blob/master/assets/images/SuiteCommerceAdvance-Architecture.png)
 
-- Video: https://www.youtube.com/watch?v=DwNzsVNerbE
+**SuiteCommerce Advanced Videos**
 
-**Initial Setup**
+Achitecture: https://www.youtube.com/watch?v=DwNzsVNerbE
 
-- Video: https://www.youtube.com/watch?v=PKwMTbcYz84
+Initial Setup: https://www.youtube.com/watch?v=PKwMTbcYz84
 
-**SCA Playlist**
+Customizing the Reference Application: https://www.youtube.com/watch?v=snQvTtXnT-0
 
-https://www.youtube.com/playlist?list=PLZ3QZae_jw0DAEzx6xK5qPV0E9YxKFznv
+Facet and Item Option Configuration: https://www.youtube.com/watch?v=7XYgocGz-YA
+
+Exposing Custom Item Fields: https://www.youtube.com/watch?v=Tj-EUPbLvfw
+
+Exposing Custom Customer Fields: https://www.youtube.com/watch?v=gxSxZBVjKZY
 
 **SuiteCommerce Store Front Docs**
 
