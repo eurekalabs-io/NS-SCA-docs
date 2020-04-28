@@ -45,6 +45,10 @@ Items:
 
 - Video: https://www.youtube.com/watch?v=PKwMTbcYz84
 
+**SCA Playlist**
+
+https://www.youtube.com/playlist?list=PLZ3QZae_jw0DAEzx6xK5qPV0E9YxKFznv
+
 **SuiteCommerce Store Front Docs**
 
 Everything about setting up, configure and manage a Web Store:
